@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+     Nama        : Indi Bagus Prasetyo ;
+     NIM         : 10121902 ;
+     Kelas       : IF9K ;
+     Mata Kuliah : Pemrograman Android ;
+     Dosen       : Rizki Adam Kurniawan, M.Kom. ;
+     Final       : Senin, 12 Agustus 2024 ;
+
+     -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

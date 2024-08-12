@@ -1,0 +1,68 @@
+<resources>
+
+    <!--
+
+     Nama        : Indi Bagus Prasetyo ;
+     NIM         : 10121902 ;
+     Kelas       : IF9K ;
+     Mata Kuliah : Pemrograman Android ;
+     Dosen       : Rizki Adam Kurniawan, M.Kom. ;
+     Final       : Senin, 12 Agustus 2024 ;
+
+     -->
+
+    <string name="app_name">Laras Budaya</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Laras Budaya</string>
+    <string name="nav_header_subtitle">Oleh : Indi Bagus Prasetyo (@in7.xyz)</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_event">Event</string>
+
+
+    <!--    Home Menu -->
+    <string name="teks1home">Laras Budaya adalah aplikasi yang bertujuan untuk mempromosikan dan mendidik tentang seni dan budaya Sunda.</string>
+    <string name="teks2home">Explore Budaya Sunda</string>
+    <string name="card1home">Ekplorasi Seni Sunda</string>
+    <string name="card1desk">Banyak budaya Sunda yang dapat kita ekplorasi, sangat menyenangkan!</string>
+    <string name="card2home">Mengenal Aksara Sunda</string>
+    <string name="card2desk">Aksara Sunda adalah sistem penulisan yang digunakan untuk menulis bahasa Sunda. Aksara ini memiliki sejarah yang panjang dan kaya, serta memiliki peran penting dalam melestarikan budaya Sunda.</string>
+    <string name="card3home">Sejarah Budaya Sunda</string>
+    <string name="card3desk">Mengenal Sunda lebih dalam, memahami kultarasi, suku, dan pengembangannya.</string>
+
+    <string name="tombol1">Eksplor</string>
+
+
+<!--    Sejarah  -->
+
+    <string name="pengantarsejarah">Pengantar Sejarah Sunda</string>
+    <string name="intro_sejarah_sunda">Sejarah Sunda dimulai dari zaman prasejarah dan terus berkembang menjadi salah satu kerajaan yang berpengaruh di Nusantara, terutama dengan Kerajaan Sunda yang terkenal dengan ibu kotanya di Pajajaran.</string>
+    <string name="petasejarah">Peta Wilayah Kerajaan Sunda</string>
+    <string name="timelinesejarah">Timeline Sejarah Sunda</string>
+    <string name="zaman1">Kerajaan Sunda</string>
+    <string name="kontenzaman1">Kerajaan Sunda adalah kerajaan yang pernah ada antara tahun 932 dan 1579 Masehi di bagian barat pulau Jawa, sekarang bagian dari provinsi Banten, DKI Jakarta, Jawa Barat, sebagian wilayah barat Provinsi Jawa Tengah, serta meliputi sebagian wilayah selatan Pulau Sumatra.Kerajaan ini merupakan penerus dari Kerajaan Tarumanagara yang bercorak Hindu dan Buddha, kemudian sekitar abad ke-14 diketahui kerajaan ini telah beribu kota diKawali serta memiliki dua kawasan pelabuhan utama di Kalapa dan Banten.Kerajaan Sunda runtuh setelah ibu kota kerajaan ditaklukan oleh Maulana Yusuf pada tahun 1579. Sementara sebelumnya kedua pelabuhan utama Kerajaan Sunda itu juga telah dikuasai oleh Kesultanan Demak pada tahun 1527, Kalapa ditaklukan oleh Fatahillah dan Banten ditaklukan oleh Maulana Hasanuddin.Sebelum terbentuknya kerajaan-kerajaan yang kokoh di wilayah Sunda, leluhur masyarakat Sunda telah mendiami kawasan ini. Kehidupan mereka saat itu sangat bergantung pada alam. Mereka berburu, meramu, dan bercocok tanam. Perlahan-lahan, mereka mulai membentuk komunitas-komunitas kecil yang kemudian berkembang menjadi permukiman yang lebih besar. Pengaruh kebudayaan dari luar, seperti Hindu-Buddha, mulai terasa pada masa ini, meski belum begitu mendominasi.</string>
+    <string name="zaman2">Zaman Berdirinya kerajaan Sunda</string>
+    <string name="kontenzaman2">Pada abad ke-9 hingga 10 Masehi, kerajaan-kerajaan kecil mulai bermunculan di wilayah Sunda. Salah satu kerajaan yang cukup berpengaruh adalah Kerajaan Galuh. Kemudian, kerajaan-kerajaan kecil ini bersatu dan membentuk sebuah kerajaan yang lebih besar, yaitu Kerajaan Sunda. Prasasti Kebon Kopi II menjadi bukti tertulis tertua mengenai keberadaan kerajaan ini. Kerajaan Sunda yang baru terbentuk ini mulai menunjukkan eksistensinya di kancah politik Nusantara.</string>
+    <string name="zaman3">Zaman Kejayaan kerajaan Sunda</string>
+    <string name="kontenzaman3">Masa abad ke-13 hingga 15 merupakan periode keemasan bagi Kerajaan Sunda. Di bawah kepemimpinan raja-raja yang kuat, seperti Prabu Siliwangi, kerajaan ini mengalami perkembangan yang pesat di berbagai bidang. Wilayah kekuasaannya meluas hingga ke bagian selatan Pulau Sumatera. Peninggalan-peninggalan budaya yang megah, seperti candi, prasasti, dan karya seni, menjadi bukti kemegahan Kerajaan Sunda pada masa ini.</string>
+    <string name="zaman4">Era Kemunduran dan Warisan Budaya</string>
+    <string name="kontenzaman4">kejayaan Kerajaan Sunda tidak berlangsung lama. Konflik internal dan tekanan dari kerajaan-kerajaan tetangga mulai menggoyahkan kekuatan kerajaan. Kedatangan bangsa Portugis ke Nusantara semakin memperumit situasi politik. Akhirnya, pada abad ke-16, Kerajaan Sunda takluk kepada Kesultanan Banten. Runtuhnya Kerajaan Sunda menandai berakhirnya sebuah era keemasan dalam sejarah Nusantara. Meskipun kerajaan telah runtuh, warisan budaya Sunda tetap lestari hingga kini. Bahasa Sunda, kesenian tradisional seperti tari, musik, dan wayang, serta adat istiadat masih menjadi bagian tak terpisahkan dari kehidupan masyarakat Sunda. Nilai-nilai luhur yang diwariskan oleh leluhur terus dilestarikan dan dikembangkan oleh generasi penerus.</string>
+    <string name="tokohsejarah">Tokoh-tokoh Berpengaruh</string>
+    <string name="tokoh1">1. Raja Siliwangi - Raja Pajajaran yang terkenal</string>
+    <string name="tokoh2">2. Prabu Surawisesa - Putra dari Prabu Siliwangi</string>
+    <string name="tokoh3">3. Sri Baduga Maharaja - Raja yang dikenal sosok yang adil dan bijaksana</string>
+    <string name="tokoh4">4. Ki Sunda Wijaya - Tokoh Sastra Sunda yang memberikan pengaruh terhadap nilai moral dan etika</string>
+    <string name="tokoh5">5. Sunarya - Salah satu dalang Wayang Golek ternama yang berhasil mempopulerkan wayang</string>
+    <string name="warisan">Warisan Budaya Sunda</string>
+    <string name="seni1">1. Wayang Golek</string>
+    <string name="seni2">2. Tarian Jaipong</string>
+    <string name="seni3">3. Tarian Merak</string>
+    <string name="seni4">4. Kuda Lumping</string>
+    <string name="seni5">5. Kuda Renggong</string>
+    <string name="pengaruh">Pengaruh Sejarah Sunda di Era Modern</string>
+    <string name="kontenpengaruh">Sejarah Sunda telah memberikan kontribusi besar terhadap budaya dan masyarakat di Jawa Barat. Pengaruhnya terlihat dalam berbagai aspek kehidupan sehari-hari, termasuk bahasa, seni, dan adat istiadat.</string>
+</resources>
